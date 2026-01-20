@@ -1,0 +1,19 @@
+{
+  "name": "profile-pdf-generator",
+  "version": "1.0.0",
+  "description": "Gerador de PDF para perfil profissional",
+  "main": "generate-pdf.js",
+  "scripts": {
+    "generate-pdf": "node generate-pdf.js"
+  },
+  "keywords": [
+    "pdf",
+    "puppeteer",
+    "profile"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^24.0.0"
+  }
+}
